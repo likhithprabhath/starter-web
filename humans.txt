@@ -6,6 +6,8 @@
     <name> -- swagknight
     <email> -- lpn@yahoo.com
 
+#Added nw line ot check remote and local merge
+
 #Updating the line to mix merge conflict
 
 # THANKS
