@@ -5,3 +5,7 @@ This is a web project which is taken from initialzer
 ## DEVops Training
 
 This is a worth plenty of files for demos and trainings
+
+## Forking access
+
+Forking is the copy where as cloning is the process, no command for forking whereas git clone is used as command to get repo to local
