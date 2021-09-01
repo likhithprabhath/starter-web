@@ -6,13 +6,10 @@
     <name> -- swagknight
     <email> -- lpn@yahoo.com
 
-#Updating the line to mix merge conflict
-
 # THANKS
 
-    To all the developers testers and infra teams for their effort
+    To all the developers testers and infra teams for their effort 
 
- 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Javascript
