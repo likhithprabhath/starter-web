@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    To all the developers testers and infra teams for their effort
 
 # TECHNOLOGY COLOPHON
 
