@@ -1,7 +1,7 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is a web project which is taken from initialzer
 
-## Purpose
+## DEVops Training
 
-Sample website with plenty of files for demos
+This is a worth plenty of files for demos and trainings
