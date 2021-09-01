@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- swagknight -- <twitter>
+    <name> -- swagknight
+    <email> -- lpn@yahoo.com
 
 # THANKS
 
