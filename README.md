@@ -7,6 +7,7 @@ This is a web project which is taken from initialzer
 This is a worth plenty of files for demos and trainings
 Adding one more line for testing purpose.
 Adding another file to the git to check it
+This is updated on remote git repository
 
 ## Forking access
 
