@@ -6,7 +6,7 @@
     <name> -- swagknight
     <email> -- lpn@yahoo.com
 
-#line2 - Adding new line from feature branch
+#Updating the line to mix merge conflict
 
 # THANKS
 
