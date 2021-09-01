@@ -13,3 +13,5 @@
 
     HTML5, CSS3, Javascript
     jQuery, Modernizr, AJAX
+
+# Line 1 - We are adding new line from master
