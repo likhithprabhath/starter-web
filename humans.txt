@@ -6,15 +6,14 @@
     <name> -- swagknight
     <email> -- lpn@yahoo.com
 
-#Added nw line ot check remote and local merge
-
-#Updating the line to mix merge conflict
-
 # THANKS
 
-    To all the developers testers and infra teams for their effort
+    To all the developers testers and infra teams for their effort 
 
+
+# Line 3 - We are updating the file from master branch twice
  
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Javascript
