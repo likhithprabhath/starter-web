@@ -12,3 +12,7 @@ This is updated on remote git repository
 ## Forking access
 
 Forking is the copy where as cloning is the process, no command for forking whereas git clone is used as command to get repo to local
+
+## Stashing
+
+Added new line for stashing
